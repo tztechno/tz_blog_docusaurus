@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>AJAX Site Blog</title>
+        <link>https://tztechno.github.io/tz_blog_docusaurus//blog</link>
+        <description>The best place to stay up-to-date with the latest AJAX Site news and events.</description>
+        <lastBuildDate>Sat, 22 Jun 2024 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>AJAX Site Blog</title>
+            <url>https://tztechno.github.io/tz_blog_docusaurus//img/favicon.ico</url>
+            <link>https://tztechno.github.io/tz_blog_docusaurus//blog</link>
+        </image>
+        <copyright>Copyright © 2024 Your Name or Your Company Name</copyright>
+        <item>
+            <title><![CDATA[Push Docusurus]]></title>
+            <link>https://tztechno.github.io/tz_blog_docusaurus//blog/2024/06/22/push.html</link>
+            <guid>https://tztechno.github.io/tz_blog_docusaurus//blog/2024/06/22/push.html</guid>
+            <pubDate>Sat, 22 Jun 2024 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>ローカルで作成したDocusaurusプロジェクトをGitHub Pagesに公開する方法を説明しますね。</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Build Docusurus]]></title>
+            <link>https://tztechno.github.io/tz_blog_docusaurus//blog/2024/06/22/docusaurus.html</link>
+            <guid>https://tztechno.github.io/tz_blog_docusaurus//blog/2024/06/22/docusaurus.html</guid>
+            <pubDate>Sat, 22 Jun 2024 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Docusaurusは、静的なウェブサイトやドキュメンテーションサイトを作成するためのツールで、Reactで構築されています。Docusaurusのインストール方法を以下に示します。</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
+            <link>https://tztechno.github.io/tz_blog_docusaurus//blog/2017/09/25/testing-rss.html</link>
+            <guid>https://tztechno.github.io/tz_blog_docusaurus//blog/2017/09/25/testing-rss.html</guid>
+            <pubDate>Mon, 25 Sep 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
+<p>This should be truncated.</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[New Blog Post]]></title>
+            <link>https://tztechno.github.io/tz_blog_docusaurus//blog/2017/04/10/blog-post-two.html</link>
+            <guid>https://tztechno.github.io/tz_blog_docusaurus//blog/2017/04/10/blog-post-two.html</guid>
+            <pubDate>Mon, 10 Apr 2017 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Blog Title]]></title>
+            <link>https://tztechno.github.io/tz_blog_docusaurus//blog/2016/03/11/blog-post.html</link>
+            <guid>https://tztechno.github.io/tz_blog_docusaurus//blog/2016/03/11/blog-post.html</guid>
+            <pubDate>Fri, 11 Mar 2016 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></description>
+        </item>
+    </channel>
+</rss>

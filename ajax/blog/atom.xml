@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tztechno.github.io/tz_blog_docusaurus//blog</id>
+    <title>AJAX Site Blog</title>
+    <updated>2024-06-22T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tztechno.github.io/tz_blog_docusaurus//blog"/>
+    <subtitle>The best place to stay up-to-date with the latest AJAX Site news and events.</subtitle>
+    <logo>https://tztechno.github.io/tz_blog_docusaurus//img/favicon.ico</logo>
+    <rights>Copyright © 2024 Your Name or Your Company Name</rights>
+    <entry>
+        <title type="html"><![CDATA[Push Docusurus]]></title>
+        <id>https://tztechno.github.io/tz_blog_docusaurus//blog/2024/06/22/push.html</id>
+        <link href="https://tztechno.github.io/tz_blog_docusaurus//blog/2024/06/22/push.html"/>
+        <updated>2024-06-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>ローカルで作成したDocusaurusプロジェクトをGitHub Pagesに公開する方法を説明しますね。</p>
+]]></summary>
+        <author>
+            <name>stpete</name>
+            <uri>https://tztechno.github.io/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build Docusurus]]></title>
+        <id>https://tztechno.github.io/tz_blog_docusaurus//blog/2024/06/22/docusaurus.html</id>
+        <link href="https://tztechno.github.io/tz_blog_docusaurus//blog/2024/06/22/docusaurus.html"/>
+        <updated>2024-06-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Docusaurusは、静的なウェブサイトやドキュメンテーションサイトを作成するためのツールで、Reactで構築されています。Docusaurusのインストール方法を以下に示します。</p>
+]]></summary>
+        <author>
+            <name>stpete</name>
+            <uri>https://tztechno.github.io/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
+        <id>https://tztechno.github.io/tz_blog_docusaurus//blog/2017/09/25/testing-rss.html</id>
+        <link href="https://tztechno.github.io/tz_blog_docusaurus//blog/2017/09/25/testing-rss.html"/>
+        <updated>2017-09-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
+<p>This should be truncated.</p>
+]]></summary>
+        <author>
+            <name>Eric Nakagawa</name>
+            <uri>http://twitter.com/ericnakagawa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Blog Post]]></title>
+        <id>https://tztechno.github.io/tz_blog_docusaurus//blog/2017/04/10/blog-post-two.html</id>
+        <link href="https://tztechno.github.io/tz_blog_docusaurus//blog/2017/04/10/blog-post-two.html"/>
+        <updated>2017-04-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></summary>
+        <author>
+            <name>Blog Author</name>
+            <uri>http://twitter.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog Title]]></title>
+        <id>https://tztechno.github.io/tz_blog_docusaurus//blog/2016/03/11/blog-post.html</id>
+        <link href="https://tztechno.github.io/tz_blog_docusaurus//blog/2016/03/11/blog-post.html"/>
+        <updated>2016-03-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.</p>
+]]></summary>
+        <author>
+            <name>Blog Author</name>
+            <uri>http://twitter.com/</uri>
+        </author>
+    </entry>
+</feed>
