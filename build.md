@@ -51,5 +51,6 @@ git add .
 git commit -m "Initial commit"
 git push -u origin master
 
- https://tztechno.github.io/tz_blog_docusaurus/
+https://tztechno.github.io/tz_blog_docusaurus/
+
 ```
